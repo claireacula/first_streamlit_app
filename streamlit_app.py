@@ -40,7 +40,7 @@ streamlit.dataframe(fruityvice_normalized)
 streamlit.stop()
 
 
-import streamlit
+
 import pandas
 import request
 import snowflake.connector
